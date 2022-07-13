@@ -32,6 +32,11 @@ Allows people to manage their Collectible Colors.
 ### Direct Send Mode
 Form asks people for the server IP, shared secret. The program then tries to connect to the other person. When connected, the collection is sent. 
 
+## Look of GUI
+The original idea was to create something very minimalistic that looks like Minecraft. This makes it look more like a game. 
+
+The original idea images can be seen here but we are not bound to them:
+https://github.com/worthingtonse/PlayCoinClient
 
 
 
