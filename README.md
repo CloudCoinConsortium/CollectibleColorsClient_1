@@ -23,9 +23,9 @@ Allows people to manage their Collectible Colors.
 
 ### Collection Mode
 * When in "Collection mode" the collection will be shown on the left (A grid that has the same dimentions as the user's specifications) and on the right will be the "Color Stockpile". Users can drag colors from the color stockpile to the collection and place them in a pixel. Every pixel must be a unique color. The stockpile will have pages to page through lots of colors.
-* Collection mode includes a button to "Export Collection"
-* Collection mode includes a button called "Health Check". When clicked the progam fixes one at a time. (See Health check image below)
-* Collection mode includes a button called "Direct Send" which takes the person to the "Direct Send" screen.
+* Collection mode includes a button to "Export Collection" (Same for stockpile in dashboard mode)
+* Collection mode includes a button called "Health Check". When clicked the progam fixes one at a time. (See Health check image below)(Same for stockpile in dashboard mode)
+* Collection mode includes a button called "Direct Send" which takes the person to the "Direct Send" screen.(Same for stockpile in dashboard mode)
 * When a user clicks on a color in the "Stockpile" or in a collection, the color will pop up with details (Name, #FF8800 Hex code and decimal number)
 * Each collection h
 
